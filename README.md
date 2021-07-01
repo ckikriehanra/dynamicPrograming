@@ -1,0 +1,2 @@
+# dynamicPrograming
+it is begining:)
